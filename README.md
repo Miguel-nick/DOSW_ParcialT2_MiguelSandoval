@@ -4,4 +4,4 @@
 
 ## 1. PRIMER PUNTO
 
-<img width="508" height="375" alt="Screenshot 2026-04-08 165642" src="https://github.com/user-attachments/assets/e9195a53-0710-4c56-b8f6-b9e2909572f3" />
+<img width="722" height="410" alt="Screenshot 2026-04-08 170904" src="https://github.com/user-attachments/assets/3ac89e9b-2663-4a42-8d22-74c8277a1b44" />
